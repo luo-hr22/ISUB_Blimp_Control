@@ -1,7 +1,5 @@
-## ISUB_Blimp_Control
+# ISUB_Blimp_Control
 Flight control algorithms for Project ISUB (Intelligent Small Unmanned Blimp)
-
-# ISUB_Blimp_Control 🚁
 
 **Intelligent Small Unmanned Blimp (ISUB)** 是一个基于智慧视觉的小型飞艇平台，专为复杂空间环境下的动态监测设计。项目融合双目视觉、深度学习与自主控制技术，提供高效、低成本的工业巡检与家庭安全监测解决方案。
 
