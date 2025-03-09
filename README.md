@@ -1,5 +1,5 @@
-ISUB_Blimp_Control
-# Flight control algorithms for Project ISUB (Intelligent Small Unmanned Blimp)
+## ISUB_Blimp_Control
+Flight control algorithms for Project ISUB (Intelligent Small Unmanned Blimp)
 
 # ISUB_Blimp_Control 🚁
 
